@@ -160,3 +160,10 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+#labelListaAmigos{
+    padding-top: 10px;
+    font-size: larger;
+    color: blue;
+}
+
